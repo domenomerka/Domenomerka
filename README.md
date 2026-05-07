@@ -1,16 +1,13 @@
-## Hi there 👋
+Колесников Александр Александрович
 
-<!--
-**domenomerka/Domenomerka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Book Tracker — это графическое приложение для управления списком прочитанных книг. Программа позволяет:
 
-Here are some ideas to get you started:
+Добавлять книги с указанием названия, автора, жанра и количества страниц
+Просматривать список всех добавленных книг в удобной таблице
+Фильтровать книги по жанру и по количеству страниц (больше заданного числа)
+Удалять книги из списка
+Автоматически сохранять данные в файл books.json (данные сохраняются между запусками)
+Инструкция по запуску:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python 3.6 или выше
+Модуль tkinter
